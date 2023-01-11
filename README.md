@@ -3,6 +3,5 @@ Web app where users can join chat rooms and send messages to each other.
 
 Made with Node js, Express and Socket.io. 
 
-
-![Screenshot (34)](https://user-images.githubusercontent.com/97710861/211734398-2ad0ee01-3dd6-449c-89a5-ac0278e1a417.png)
-![Screenshot (35)](https://user-images.githubusercontent.com/97710861/211734414-93104400-4d02-4feb-85d7-ed0614b6e188.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/97710861/211734906-128a80f6-f659-42c3-bffa-2fc5adb222e5.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/97710861/211734907-a1c894f1-08e0-4cdc-9af6-f1e05a089b4d.png)
